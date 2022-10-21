@@ -1,0 +1,13 @@
+.home{
+    background-image: url(../img/unnamed.png);
+ background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+
+}
+.home P{
+   font-weight: bold;
+   font-size: 50;
+}
